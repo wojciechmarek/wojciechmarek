@@ -3,7 +3,7 @@ Let me tell you something about myself:
 - 👋 I’m [Wojciech Marek](@wojciechmarek)
 - 🏛️ I'm currently working as a frontend developer.
 - 👀 I’m interested in everything colorful, especially well-designed websites.
-- 🌱 I’m currently learning projecting UI and user experience.
+- 🌱 I’m currently learning desing UIs and user experience.
 - 💞️ I’m looking to collaborate on software that will change to world 🌎.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/wojciech-marek/)
 
