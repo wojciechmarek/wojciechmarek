@@ -1,4 +1,4 @@
-# Hello
+# Hi stranger!
 Let me tell you something about myself:
 - 👋 I’m [Wojciech Marek](@wojciechmarek)
 - 🏛️ I'm currently working as a frontend developer.
