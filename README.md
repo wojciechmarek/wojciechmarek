@@ -1,6 +1,6 @@
 # Hi stranger!
 Let me tell you something about myself:
-- 👋 I’m [Wojciech Marek](@wojciechmarek)
+- 👋 I’m Wojciech Marek
 - 🏛️ I'm currently working as a frontend developer.
 - 👀 I’m interested in everything colorful, especially well-designed websites.
 - 🌱 I’m currently learning desing UIs and user experience.
