@@ -2,7 +2,7 @@
 Let me tell you something about myself:
 - 👋 I’m Wojciech Marek.
 - 🌱 I'm a full-stack software developer.
-- 🏛️ I'm currently working as a frontend developer.
+- 🏛️ I'm working as a frontend web developer.
 - 📚 I’m currently learning how to design UIs and user experiences.
 - 💞️ I’m interested in everything colorful, especially well-designed websites.
 - 👀 I’m looking to collaborate on software that will change to world 🌎.
