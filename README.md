@@ -12,6 +12,7 @@ Let me tell you something about myself:
 - 🙈 I'm dreaming of checking that the earth is round ✈️.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/wojciech-marek/), [Dribbble](https://dribbble.com/wojciechmarek), see my [tech stack](https://github.com/wojciechmarek/my-tech-stack/tree/master#readme) or read more about me at [wojciechmarek.github.io](https://wojciechmarek.github.io/).
 
+Browse my skills by tags: [**#react**](https://github.com/wojciechmarek?tab=repositories&q=react&type=&language=&sort=), [**#angular**](https://github.com/wojciechmarek?tab=repositories&q=angular&type=&language=&sort=), [**#nx**](https://github.com/wojciechmarek?tab=repositories&q=nx&type=&language=&sort=)
 <!---
 wojciechmarek/wojciechmarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
