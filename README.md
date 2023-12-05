@@ -5,7 +5,7 @@ Let me tell you something about myself:
 - 🏛️ I work as a frontend web developer.
 - 👨‍💻 I code in [Typescript](https://github.com/wojciechmarek?tab=repositories&q=typescript&type=&language=&sort=) to write the apps in [React](https://github.com/wojciechmarek?tab=repositories&q=react&type=&language=&sort=) and [Angular](https://github.com/wojciechmarek?tab=repositories&q=angular&type=&language=&sort=).
 - 📚 I’m currently learning how to ~design UIs and user experiences~, ~the frontend apps architecture~, ~the NX monorepository architecture~, ~use the Browser's Audio API~, do intelligent things 💡 with Machine Learning, and take the world by storm 🌊 with Web 3.0.
-- 💞️ I'm interested in Web Development, JavaScript, UI/UX, good design, and Machine Learning by [tf.js](https://www.tensorflow.org/js?hl=pl).
+- 💞️ I'm interested in Web Development, JavaScript, UI/UX and Web 3.0.
 - 🥣 I like to eat spaghetti, but I hate to work with a spaghetti code 🤢.
 - 👀 I look to collaborate on software that will change the world 🌎.
 - 🙈 I'm dreaming of checking that the earth is round ✈️.
