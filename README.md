@@ -1,4 +1,4 @@
-# Hello stranger!
+# Hello!
 Let me tell you something about myself:
 - 👋 I’m Wojciech Marek.
 - 🌱 I'm a full-stack software developer.
