@@ -3,7 +3,7 @@ Let me tell you something about myself:
 - 👋 I’m Wojciech Marek.
 - 🌱 I'm a full-stack software developer.
 - 🏛️ I work as a frontend web developer.
-- 👨‍💻 I code in [Typescript](https://github.com/wojciechmarek?tab=repositories&q=typescript&type=&language=&sort=) and [C#](https://github.com/wojciechmarek?tab=repositories&q=C%23&type=&language=&sort=) to write the apps in [React](https://github.com/wojciechmarek?tab=repositories&q=react&type=&language=&sort=), [Angular](https://github.com/wojciechmarek?tab=repositories&q=angular&type=&language=&sort=), [Nest.js](https://github.com/wojciechmarek?tab=repositories&q=nestjs&type=&language=&sort=) and [.Net](https://github.com/wojciechmarek?tab=repositories&q=C%23&type=&language=&sort=).
+- 👨‍💻 I code in [Typescript](https://github.com/wojciechmarek?tab=repositories&q=typescript&type=&language=&sort=) and [C#](https://github.com/wojciechmarek?tab=repositories&q=csharp&type=&language=&sort=) to write the apps in [React](https://github.com/wojciechmarek?tab=repositories&q=react&type=&language=&sort=), [Angular](https://github.com/wojciechmarek?tab=repositories&q=angular&type=&language=&sort=), [Nest.js](https://github.com/wojciechmarek?tab=repositories&q=nestjs&type=&language=&sort=) and [.Net](https://github.com/wojciechmarek?tab=repositories&q=csharp&type=&language=&sort=).
 - 📚 I’m currently learning how to do intelligent things 💡 with ChatGPT/LLMs, and take the world by storm 🌊 with Web 3.0.
 - 💞️ I'm also interested in mobile apps development, no-code services and UI/UX.
 - 🥣 I like to eat spaghetti, but I hate to work with a spaghetti code 🤢.
